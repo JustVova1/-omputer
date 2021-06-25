@@ -615,7 +615,7 @@ template {
 }
 
 .intro {
-  background: url(img/intro.jpg);
+  background: url(intro.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
