@@ -630,7 +630,7 @@ template {
 }
 
 .intro {
-  background: url(intro.jpg);
+  background: url(intro.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
